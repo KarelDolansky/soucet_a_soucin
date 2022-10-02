@@ -1,18 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package soucet_a_soucin;
 import java.util.Scanner;
-/**
- *
- * @author Karel
- */
-public class Soucet_a_soucin {
 
-    /**
-     * @param args the command line arguments
-     */
+public class Soucet_a_soucin {
     public static void main(String[] args) {
         System.out.println("Zadejte dvě čísla pro souČet a součin");
         Scanner scanner = new Scanner(System.in);
