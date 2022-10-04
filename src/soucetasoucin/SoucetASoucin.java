@@ -1,7 +1,7 @@
-package soucet_a_soucin;
+package soucetasoucin;
 import java.util.Scanner;
 
-public class Soucet_a_soucin {
+public class SoucetASoucin {
     public static void main(String[] args) {
         System.out.println("Zadejte dvě čísla pro souČet a součin");
         Scanner scanner = new Scanner(System.in);
